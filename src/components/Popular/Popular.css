@@ -1,0 +1,17 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+ul{
+    display: flex;
+    gap: 20px;
+flex-wrap: wrap;
+justify-content: center;
+}
+.kerak_h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 40px;
+}

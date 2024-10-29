@@ -1,0 +1,21 @@
+.header_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
+    gap: 20px;
+    color: #fff;
+}
+.kerak{
+    background: darkblue;
+    padding: 20px;
+}
+.header_link{
+color: #fff;
+text-decoration: none;
+}
+.kerak_h1{
+    text-align: center;
+    color: purple;
+    margin-top: 200px;
+}
